@@ -1,9 +1,9 @@
-# Home Appliances Maintenance System (ARHIS)
+# Autonomous Residential Health and Intelligence System (ARHIS)
 
-Autonomous Residential Health and Intelligence System (ARHIS) is a full-stack
-platform for monitoring home appliances, diagnosing issues, and delivering
-AI-assisted troubleshooting. It pairs a Django + DRF backend with a React
-dashboard and real-time WebSocket chat.
+ARHIS is the Home Appliances Maintenance System: a full-stack platform for
+monitoring home appliances, diagnosing issues, and delivering AI-assisted
+troubleshooting. It pairs a Django + DRF backend with a React dashboard and
+real-time WebSocket chat.
 
 ## Features
 
